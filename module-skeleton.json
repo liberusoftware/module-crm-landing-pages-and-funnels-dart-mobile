@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-landing-pages-and-funnels-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-landing-pages-and-funnels",
+  "presentation": "dart-mobile",
+  "package": "module_crm_landing_pages_and_funnels_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/landing-pages-and-funnels.md",
+  "presentationPlan": "projects/crm/features/landing-pages-and-funnels.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
